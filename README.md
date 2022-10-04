@@ -1,5 +1,8 @@
 # Progressive Web Apps with Vue 3
+A simple PWA Todo app build using vuejs. The link can be found below
+https://waseem-1.github.io/todo-pwa-app/
 
+Note: The code of todo app is done by BenCodeZen and functionality of PWA is added by me.
 ## Project setup
 
 ```
